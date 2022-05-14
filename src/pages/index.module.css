@@ -3,6 +3,14 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  background-image: url("/img/banner.png");
+  background-position: center bottom;
+  color: var(--ifm-font-color-base-inverse);
+}
+
+[data-theme='dark'] .heroBanner {
+  color: var(--ifm-font-color-base);
+  background-image: url("/img/banner-dark.png");
 }
 
 @media screen and (max-width: 996px) {
