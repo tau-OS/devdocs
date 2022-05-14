@@ -9,3 +9,27 @@
   height: 200px;
   width: 200px;
 }
+
+.link {
+  color: var(--ifm-font-color-base);
+  transition: transform var(--ifm-transition-slow),
+    box-shadow var(--ifm-transition-slow);
+}
+
+.link:hover {
+  color: var(--ifm-font-color-base);
+  text-decoration: var(--ifm-link-decoration);
+  transform: scale(1.05);
+  box-shadow: var(--ifm-global-shadow-lw);
+}
+
+.more {
+  color: var(--ifm-link-color);
+}
+
+.more::after {
+  content: "›";
+  padding-left: .4em;
+  top: -0.1rem;
+  position: relative;
+}
