@@ -1,41 +1,34 @@
-# Website
+# Developer Documentation Portal
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+This site is powered by Docusarus v2.
 
-### Installation
+### Adding documentation
 
-```
-$ yarn
-```
+All docs are stored as Markdown files under `/docs/`. To add a document to an existing category, simply create a new markdown file in the category folder.
 
-### Local Development
+Then include the following text at the very top of the file (including the ---es).
 
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
+```yaml
+---
+sidebar_position: TOTAL_COUNT_OF_CATEGORY_PAGES + 1
+---
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+### Adding categories
 
-### Deployment
+To add a new category, create a new folder for your category, and create a `_category_.json` file inside this folder.
 
-Using SSH:
+Then include the following text at the very top of the file (including the ---es).
 
+```json
+{
+  "label": "CATEGORY TITLE",
+  "position": CATEGORY_SIDEBAR_POSITION,
+  "collapsible": false,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "OPTIONAL_CATEGORY_DESCRIPTION"
+  }
+}
 ```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
