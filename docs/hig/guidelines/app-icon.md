@@ -18,6 +18,6 @@ tauOS compliant app icons have some rules to abide by, so that they're the best 
 
 Once your icon is made, then it can be shipped with your app.
 
-**Important**: Use the palette below to make your app icons, with the exception of those two separate colors on the right-most column.
+**Important**: Use the palette below to make your app icons.
 
 ![](/assets/palette.png)
