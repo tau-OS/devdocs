@@ -7,6 +7,7 @@ type FeatureItem = {
   Svg: React.ComponentType<React.ComponentProps<"svg">>;
   description: JSX.Element;
   href: string;
+  linkTitle: string;
 };
 
 const FeatureList: FeatureItem[] = [
@@ -19,26 +20,37 @@ const FeatureList: FeatureItem[] = [
         documentation for those creating software designed for tauOS.
       </>
     ),
+    linkTitle: "Read HIG",
     href: "/docs/hig",
+  },
+  {
+    title: "Dedicated to Open Source",
+    Svg: require("@site/static/img/open_source.svg").default,
+    description: (
+      <>
+        Fyra Labs is dedicated to open source, and all our source code is
+        publicly available on GitHub.
+      </>
+    ),
+    linkTitle: "View our GitHub",
+    href: "https://github.com/tau-OS",
   },
 ];
 
-function Feature({ title, Svg, description, href }: FeatureItem) {
+function Feature({ title, Svg, description, href, linkTitle }: FeatureItem) {
   return (
-    <a href={href} className={styles.link}>
-      <div className={clsx("col col--4")}>
+    <div className={clsx("col col--4 link")}>
+      <a href={href} className={styles.link}>
         <div className="text--center">
           <Svg className={styles.featureSvg} role="img" />
         </div>
         <div className="text--center padding-horiz--md">
           <h3>{title}</h3>
           <p>{description}</p>
-          <p className={styles.more}>
-            Read HIG
-          </p>
+          <p className={styles.more}>{linkTitle}</p>
         </div>
-      </div>
-    </a>
+      </a>
+    </div>
   );
 }
 

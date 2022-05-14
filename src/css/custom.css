@@ -35,3 +35,24 @@
 .theme-doc-sidebar-item-link {
   padding: .2rem 1rem .2rem 0;
 }
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 calc(var(--ifm-spacing-horizontal) * -1);
+  justify-content: space-between;
+}
+
+.link {
+  color: var(--ifm-font-color-base);
+  transition: transform var(--ifm-transition-slow),
+    box-shadow var(--ifm-transition-slow);
+  width: fit-content;
+}
+
+.link:hover {
+  color: var(--ifm-font-color-base);
+  text-decoration: var(--ifm-link-decoration);
+  transform: scale(1.05);
+  box-shadow: var(--ifm-global-shadow-lw);
+}
