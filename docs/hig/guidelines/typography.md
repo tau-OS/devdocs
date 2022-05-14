@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+---
+
 # Typography
 
 An app's interface is nothing without text. Text size, position, and other factors deliver a great experience in conveying information, and it also adds beauty to an app when done right.
