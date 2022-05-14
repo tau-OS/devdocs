@@ -1,0 +1,41 @@
+:root {
+  --ifm-color-primary: #8c56bf;
+  --ifm-color-primary-dark: #bf56a8;
+  --ifm-color-primary-darker: #bf56a8;
+  --ifm-color-primary-darkest: #bf56a8;
+  --ifm-color-primary-light: #bf56a8;
+  --ifm-color-primary-lighter: #bf56a8;
+  --ifm-color-primary-lightest: #bf56a8;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme="dark"] {
+  --ifm-color-primary: #bea0db;
+  --ifm-color-primary-dark: #db9fcd;
+  --ifm-color-primary-darker: #db9fcd;
+  --ifm-color-primary-darkest: #db9fcd;
+  --ifm-color-primary-light: #db9fcd;
+  --ifm-color-primary-lighter: #db9fcd;
+  --ifm-color-primary-lightest: #db9fcd;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+.theme-doc-sidebar-item-category {
+  padding: 1rem 0 1rem 0;
+}
+
+.theme-doc-sidebar-item-category > .menu__list-item-collapsible:hover {
+  background: initial;
+}
+
+.theme-doc-sidebar-item-category > .menu__list-item-collapsible > .menu__link {
+  text-transform: uppercase;
+  font-size: 12px;
+  user-select: none;
+  letter-spacing: 1.1px;
+}
+
+.theme-doc-sidebar-item-link {
+  padding: .2rem 1rem .2rem 0;
+}
