@@ -12,7 +12,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: "Human Interface Guidelines",
-    Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
+    Svg: require("@site/static/img/human_interface_guidelines.svg").default,
     description: (
       <>
         The Human Interface Guidelines are the primary source of design
