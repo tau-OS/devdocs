@@ -2,5 +2,8 @@
   "label": "Patterns",
   "position": 4,
   "collapsible": false,
-  "collapsed": false
+  "collapsed": false,
+  "link": {
+    "type": "generated-index"
+  }
 }
