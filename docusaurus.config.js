@@ -26,7 +26,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: "https://github.com/tau-OS/devdocs/",
+          editUrl: "https://github.com/tau-OS/devdocs/blob/main/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
