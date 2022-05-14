@@ -44,7 +44,7 @@ Unicode provides a wide variety of symbols which, when used correctly, can impro
 
 |Use|Symbol|Unicode Code to Use|
 |---|---|---|
-|Quotations|“quote”|U+201C Left double quotation mark,<br>U+201D Right double quotation mark|
+|Quotations|“quote”|U+201C Left double quotation mark,<br><\br>U+201D Right double quotation mark|
 |Time|4∶20|U+2236 Ratio|
 |Multiplication|1024×768|U+00D7 Multiplication sign|
 |Ellipsis|Introducing…|U+2026 Horizontal ellipsis|
