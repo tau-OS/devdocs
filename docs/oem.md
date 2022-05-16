@@ -9,7 +9,7 @@ The `Details->System` panel in tauOS System Settings may be configured with OEM-
 This file must have the following format:
 
 <!-- I would love to use Lenovo here as it perfectly shows off the config, but that might cause legal issues?  -->
-```ini
+```ini title="/usr/share/oem/oem.conf"
 [OEM]
 # Device name
 Product=MyProduct
