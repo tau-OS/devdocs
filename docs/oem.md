@@ -9,10 +9,10 @@ The `Details->System` panel in tauOS System Settings may be configured with OEM-
 This file must have the following format:
 
 <!-- I would love to use Lenovo here as it perfectly shows off the config, but that might cause legal issues?  -->
-```toml
+```ini
 [OEM]
 # Device name
-Product=MyProduct 15"
+Product=MyProduct
 
 # Human-facing model number or version
 Version=Gen3
