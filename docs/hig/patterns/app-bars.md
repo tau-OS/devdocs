@@ -12,7 +12,7 @@ App Bars depend on context for their styling. For Primary Windows without Sideba
 
 No actions, unless needed, should be text-form instead of an icon in an App Bar. And they should always be on the right of the App Bar.
 
-The most common actions you'll find in one are the app name, search, an optional specific action, and then the App Menu, in that order. The app name should only be shown once in the entire app, and always be on the left of the App Bar. Centered title position is reserved for other custom functionality such as View Switchers, if the layout demands it.
+The most common actions you'll find in one are search, an optional specific action, and then the App Menu, in that order. Centered title position is reserved for other custom functionality such as View Switchers, if the layout demands it.
 
 - If more actions are needed to be here, put them on the Menu.
 
