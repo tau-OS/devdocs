@@ -8,8 +8,8 @@ An app's interface is nothing without text. Size, position, among other things d
 
 ## General Rules
 
-- Use the system font wherever possible. tauOS uses `Manrope` at 10pt size.
-- Don't place text over a busy background like an image or a gradient.
+- Use the system font wherever possible. tauOS uses Manrope (by Mikhail Sharanda designed in 2018 and updated frequently.) at 10pt size.
+- Don't place text over a busy background like an image or a gradient, without proper protection with a scrim.
 
 ## Geometry
 
