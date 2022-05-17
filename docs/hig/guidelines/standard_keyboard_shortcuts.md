@@ -37,7 +37,8 @@ When setupping keyboard shortcuts, refer to this list to ensure consistency with
 |Redo|Ctrl + Shift + Z|Redoes the last action, if it was reverted.|
 |Cut|Ctrl + X|Moves selection to clipboard and deletes it from view.|
 |Copy|Ctrl + C|Copies the selected content to the clipboard.|
-|Cut|Ctrl + V|Inserts the contents of the clipboard.|
+|Paste|Ctrl + V|Inserts the contents of the clipboard.|
+|Paste Special|Ctrl + Shift + V|Inserts the contents of the clipboard without any formatting.|
 |Select All|Ctrl + A|Selects all content in the view.|
 |Find|Ctrl + F|Shows a Find/Search UI.|
 |Replace|Ctrl + H|Shows a Find/Replace UI.|
