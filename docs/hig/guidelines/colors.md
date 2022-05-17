@@ -12,7 +12,7 @@ tauOS offers a range of standard colors that automatically adapt to light and da
 
 | Helium Light                                           | Helium Dark                                             | Name            | CSS Class                                              |
 | :----------------------------------------------------- | ------------------------------------------------------- | :-------------- | :----------------------------------------------------- |
-| ![](/assets/color_24.png)<br />#DB2860<br />219 40 96  | ![](/assets/color_23.png)<br />#EA80A0<br />234 128 160 | Meson Red       | `.meson-red`<br />`.destructive-error*`<br />`.error*` |
+| ![](/assets/color_24.png)<br />#DB2860<br />219 40 96  | ![](/assets/color_23.png)<br />#EA80A0<br />234 128 160 | Meson Red       | `.meson-red`<br />`.destructive-action*`<br />`.error*` |
 | ![](/assets/color_22.png)<br />#F7812B<br />247 129 43 | ![](/assets/color_21.png)<br />#FBBB8D<br />251 187 141 | Lepton Orange   | `.lepton-orange`<br />`.warning*`                      |
 | ![](/assets/color_20.png)<br />#FEBC16<br />254 188 22 | ![](/assets/color_19.png)<br />#FED97C<br />254 217 124 | Electron Yellow | `.electron-yellow`                                     |
 | ![](/assets/color_18.png)<br />#49D05E<br />73 208 94  | ![](/assets/color_17.png)<br />#9AE5A6<br />154 229 166 | Muon Green      | `.muon-green`<br />`.success*`                         |
