@@ -4,9 +4,9 @@ sidebar_position: 3
 
 # Colors
 
-tauOS offers a range of standard system colors that automatically adapt to light and dark. Use these colors when choosing app accent colors that look great individually and in combination, on both light and dark backgrounds.
+tauOS offers a range of standard colors that automatically adapt to light and dark. Use these colors when choosing app accent colors that look great individually and in combination, on both light and dark backgrounds.
 
-**Don’t** hard code color values in your app. The color values provided below are intended for reference during your app design process. Always use the tauOS Helium CSS Classes to apply colors to things.
+**Don’t** hard code color values in your app. The color values provided below are intended for reference during your app design process. Always use the Helium CSS Classes to apply colors within your app.
 
 ## Table of Colors
 
@@ -25,4 +25,4 @@ tauOS offers a range of standard system colors that automatically adapt to light
 | ![](/assets/color_4.png)<br />#ABABB6<br />171 171 182 | ![](/assets/color_3.png)<br />#CDCDD4<br />205 205 212  | Neutron Light   | `.neutron-light`                                       |
 | ![](/assets/color_2.png)<br />#2D2D2D<br />45 45 45    | ![](/assets/color_1.png)<br />#474747<br />71 71 71     | Graviton Dark   | `.graviton-dark`                                       |
 
-\* = legacy css-class, doesn’t do the color changing based on style.
+\* = legacy css-class, colors won't change based on style.
