@@ -6,7 +6,7 @@ sidebar_position: 7
 
 ![](/assets/overlay_button.png)
 
-Use a Overlay Button for the most important action on a screen. The Overlay Button appears in front of all other content on screen, and is recognizable for its circle shape and icon in the center. Only use a Overlay Button for presenting a screen's primary action. The Overlay Button can be aligned left, center, or right.
+Use a Overlay Button for the most important action on a Window. The Overlay Button appears in front of all other content on Window, and is recognizable for its circle shape and icon in the center. Only use a Overlay Button for presenting a Window's primary action. The Overlay Button can be aligned left, center, or right.
 
 There are 3 sizes of Overlay Buttons, Normal being the default:
 
