@@ -29,7 +29,7 @@ An icon in an Overlay Button should be understandable and clear. On hover, Overl
 - Use clear and simple icons, such as `list-add-symbolic`, `chat-message-new-symbolic`, or `document-edit-symbolic`. Ensure that a tooltip is available for clarity.
 - Don't use confusing or open-ended icons that suggest less common actions.
 
-An Overlay Button can trigger an action either on the current screen, or it can perform an action that creates a new screen.
+An Overlay Button can trigger an action either on the current Window, or it can perform an action that creates a new Window.
 It promotes an important, constructive action such as:
 
 - Create
