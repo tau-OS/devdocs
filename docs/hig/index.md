@@ -14,4 +14,4 @@ These guidelines are still a living document and may experience frequent changes
 
 ### Contribute
 
-The [HIG project](https://github.com/tau-OS/hig-docs) is open to changes on [GitHub](https://github.com/tau-OS).
+The [HIG project](https://github.com/tau-OS/devdocs/tree/main/docs/hig) is open to changes on [GitHub](https://github.com/tau-OS).
