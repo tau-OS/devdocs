@@ -97,7 +97,7 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
-        additionalLanguages: ["ini"],
+        additionalLanguages: ["ini", "vala"],
       },
     }),
 };
