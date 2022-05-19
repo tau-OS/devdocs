@@ -31,8 +31,8 @@ These are the recommended font styles for use in tauOS apps.
 |View Title|Light 24px|`.view-title`|Used for view titles, it's big enough to title an app's view.|
 |View Subtitle|Regular 20px|`.view-subtitle`|Used for subtitles within a View.|
 |Header|**ALL-CAPS BOLD 15px**|`.header`|Used for headings in a Sidebar.|
-|Content Block Title|**Bold 18px**|`.title`|Used for the titles on Content Blocks.|
-|Content Block Subtitle|Regular 15px|`.subtitle`|Used for the subtitles on Content Blocks.|
+|Content Block Title|**Bold 18px**|`.cb-title`|Used for the titles on Content Blocks.|
+|Content Block Subtitle|Regular 15px|`.cb-subtitle`|Used for the subtitles on Content Blocks.|
 |Body|Regular 10px|`.body` (is the default)|Used for all the text on the interface.|
 |Caption|**Bold 10px**|`.caption`|For sub-text that accompanies a text body.|
 
