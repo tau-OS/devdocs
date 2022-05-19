@@ -6,9 +6,9 @@ sidebar_position: 2
 
 ![The four different icon shapes](/assets/appicon.png)
 
-An app's icon is the opportunity to showcase what the app does in the most simple way possible. To do so, it should capture the essence of the app's function using only geometric shapes.
+An app's icon should showcase what your app does as simple as possible. It should capture the essence of the app's function using only geometric shapes.
 
-tauOS compliant app icons have some rules to abide by, so that they're the best they can be:
+HIG Compliant app icons have some rules to abide by, so they're the best they can be:
 
 1. 128×128px canvas size to allow for uniqueness of shape and consistency of visual geometry. We recommend that details are at least 4px in either width or height to allow the best appearance possible if the icon is smaller.
 2. Slight bottom-up perspective; this makes part of the front face to show.

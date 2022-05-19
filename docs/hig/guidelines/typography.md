@@ -4,21 +4,21 @@ sidebar_position: 4
 
 # Typography
 
-An app's interface is nothing without text. Text size, position, and other factors deliver a great experience in conveying information, and it also adds beauty to an app when done right.
+An app's interface is nothing without text. Size, position, among other things deliver a great experience in conveying information. Well written and placed text is important to the success of your app.
 
 ## General Rules
 
-- Use the system font wherever possible. This means, in tauOS, the font Manrope by Mikhail Sharanda designed in 2018 and updated frequently.
-- Don't position text over a busy background such as a image or a gradient, without proper protection with a shim.
+- Use the system font wherever possible. tauOS uses Manrope (by Mikhail Sharanda designed in 2018 and updated frequently.) at 10pt size.
+- Don't place text over a busy background like an image or a gradient, without proper protection with a scrim.
 
 ## Geometry
 
-Text weights, colors and sizes determine the hierarchy of your app's information displayed to the user. Simultaneously, having many different font colors, weights and etc. without a plan makes your app look messy. Make an effort to use only the tauOS Typography text sizes and weights for consistency and for information to be useful for your users.
+Font weights, colors and sizes determine the hierarchy of your app's information. Having too many varying colors and weights makes your app look messy. Make an effort to use only the tauOS Typography font sizes and weights for consistency and to make information easier to read.
 
 - Use lighter text for unimportant information.
 - Use darker text for more important information.
 - Avoid the use of italics or oblique faces, as they are visually complex and are a distraction.
-- Do **Not** Capitalize Every Word Like This.
+- Do **Not** Use Header or Title Case for Everything like This.
 - Don't do custom font sizes or styles, as this interferes with accessibility. Use the standard font styles, or use relative font sizes.
 
 ## Standard Font Styles

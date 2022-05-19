@@ -8,17 +8,16 @@ The `Details->System` panel in tauOS System Settings may be configured with OEM-
 
 This file must have the following format:
 
-<!-- I would love to use Lenovo here as it perfectly shows off the config, but that might cause legal issues?  -->
 ```ini title="/usr/share/oem/oem.conf"
 [OEM]
 # Device name
-Product=MyProduct
+Product=ThinkBook 13s
 
 # Human-facing model number or version
 Version=Gen3
 
 # Human-facing OEM Name
-Manufacturer=Fyra Labs
+Manufacturer=Lenovo
 
 [Logos]
 # Path to a logo or hardware image, expected to be shown on a light background
@@ -29,10 +28,10 @@ Dark=/usr/share/oem/dark.png
 
 [URLS]
 # OEM Homepage URL
-Homepage=https://tauos.co
+Homepage=https://lenovo.com
 
 # OEM Support URL. May be specific to product, may not
-Support=https://fyralabs.com/
+Support=https://support.lenovo.com
 ```
 
 All fields are optional, however most fields are recommended.
