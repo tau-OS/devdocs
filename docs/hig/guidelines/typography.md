@@ -29,14 +29,14 @@ These are the recommended font styles for use in tauOS apps.
 
 |Name|Specs|CSS Class|Usage|
 |---|---|---|:---|
-|Display|Light 40pt|`.display`|Used for very large text, such as timers or text that needs to be big.|
-|View Title|Light 24pt|`.view-title`|Used for view titles, it's big enough to title an app's view.|
-|View Subtitle|Regular 20pt|`.view-subtitle`|Used for subtitles within a View.|
-|Content Block Title|**Bold 18pt**|`.cb-title`|Used for the titles on Content Blocks.|
-|Content Block Subtitle|Regular 15pt|`.cb-subtitle`|Used for the subtitles on Content Blocks.|
-|Header|**ALL-CAPS BOLD 10pt**|`.header`|Used for headings in a Sidebar.|
-|Body|Regular 10pt|`.body` (is the default)|Used for all the text on the interface.|
-|Caption|**Bold 9pt**|`.caption`|For sub-text that accompanies a text body or an image.|
+|Display|Light 40px|`.display`|Used for very large text, such as timers or text that needs to be big.|
+|View Title|Light 24px|`.view-title`|Used for view titles, it's big enough to title an app's view.|
+|View Subtitle|Regular 20px|`.view-subtitle`|Used for subtitles within a View.|
+|Content Block Title|**Bold 18px**|`.cb-title`|Used for the titles on Content Blocks.|
+|Content Block Subtitle|Regular 15px|`.cb-subtitle`|Used for the subtitles on Content Blocks.|
+|Header|**ALL-CAPS BOLD 10px**|`.header`|Used for headings in a Sidebar.|
+|Body|Regular 10px|`.body` (is the default)|Used for all the text on the interface.|
+|Caption|**Bold 9px**|`.caption`|For sub-text that accompanies a text body or an image.|
 
 Note: These CSS classes are available on both GTK4 and GTK3.
 
