@@ -10,6 +10,21 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
+* {
+  font-family: "Manrope", var(--ifm-font-family-base);
+  font-kerning: none;
+}
+
+.table-of-contents__link {
+  font-size: 14px;
+  letter-spacing: 0.03em;
+}
+
+.token {
+  font-family: monospace;
+  font-size: 14px;
+}
+
 [data-theme="dark"] {
   --ifm-color-primary: #bea0db;
   --ifm-color-primary-dark: #db9fcd;
@@ -33,7 +48,7 @@
 }
 
 .theme-doc-sidebar-item-link {
-  padding: .2rem 1rem .2rem 0;
+  padding: 0.2rem 1rem 0.2rem 0;
 }
 
 .row {

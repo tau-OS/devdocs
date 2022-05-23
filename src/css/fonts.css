@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Manrope";
+    src: url("/fonts/manrope_variable.ttf") format("truetype");
+    src: url("/fonts/manrope_variable.woff2") format("woff2");
+    font-stretch: expanded;
+}
+
+/* TODO Maybe add non-variable fonts */
