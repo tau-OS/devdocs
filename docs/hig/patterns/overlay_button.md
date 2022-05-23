@@ -50,6 +50,7 @@ This type of Overlay Button is used for secondary, supporting actions.
 
 This type of Overlay Button is used when the layout calls for a prominent action, when a larger footprint would aid in user engagement.
 
+- Don’t use an Overlay Button in a non-scrolling view, use a Button instead.
 - Consider a large Overlay Button when there's a clear action to do in the user flow.
 - Don't use a large Overlay Button if it will hide important UI when scrolling. Instead use a normal sized Overlay Button.
 
@@ -57,5 +58,5 @@ This type of Overlay Button is used when the layout calls for a prominent action
 
 This type of Overlay Button can be more effective where an icon alone might be too ambiguous in the View.
 
-- Don’t use an Extended Overlay Button in a non-scrolling view.
+- Don’t use a Textual Overlay Button in a non-scrolling view.
 - If a primary action is needed in a non-scrolling View, use a Button instead.
