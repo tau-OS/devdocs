@@ -6,7 +6,7 @@ sidebar_position: 10
 
 ![Chips](/assets/chips.png)
 
-Chips help people with entering information, making selections, filtering content, or triggering actions. And they taste great, mmm BBQ flavour.
+Chips help people with entering information, making selections, filtering content, or triggering actions.
 
 Chips can show multiple interactive elements together in the same area, such as a list of selectable movie times, or a series of email contacts.
 
@@ -20,4 +20,4 @@ Chips use tags or descriptive words to filter content. They can be a good altern
 
 - Chips rely on tags or descriptive words to filter content.
 
-- Chips come in 4 flavours, Plain, BBQ, Mieng Kam, and Jalapeno.
+- Chips come in 4 flavours, Plain, Sour Cream & Onion, Mieng Kam, and Jalapeno.
