@@ -43,6 +43,23 @@
   justify-content: space-between;
 }
 
+@media (max-width: 996px) {
+  .row {
+    justify-content: center;
+    text-align: center;
+  }
+}
+
+.column {
+  max-width: 40em;
+  margin: 1em 0;
+}
+
+.footer__links {
+  text-align: center;
+  margin-bottom: 2em;
+}
+
 .link {
   color: var(--ifm-font-color-base);
   transition: transform var(--ifm-transition-slow),
