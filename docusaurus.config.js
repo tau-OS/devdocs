@@ -92,7 +92,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Fyra Labs`,
+        copyright: `Copyright © ${new Date().getFullYear()} Fyra Labs. All rights reserved.`,
       },
       prism: {
         theme: lightCodeTheme,
