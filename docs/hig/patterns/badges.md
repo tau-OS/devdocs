@@ -13,11 +13,14 @@ There are three types:
 
 1. Notifier Badge
 
-    This type of badge notifies the user that something happened elsewhere in the app. Use it sparingly.
+    This type of badge notifies the user that something happened elsewhere in the app. When it contains numbers, it's not fully 
+    rounded but instead has 8px of radius and the css class `.badge-info`. Use it sparingly.
 
 2. Modifier Badge
 
-    This type of badge shows the status of something, like for example a modified file in a project.
+    This type of badge shows the status of something, like for example a modified file in a project. May also be used to inform the
+    user of a textual information. When it has information, it's not fully rounded but instead has 8px of radius and the css class
+    `.badge-info`.
 
 3. Classifier Badge
 
