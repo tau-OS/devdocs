@@ -7,7 +7,8 @@ sidebar_position: 17
 ![](/assets/badges.png)
 
 Badges are a small visual interaction with the user that aims to inform them of something, without using more than a colored dot.
-It should not be larger than 16 by 16 pixels. Optionally one can display a number but only in Notifier Badges.
+It should not be larger than 16 by 16 pixels. Optionally one can display a number but only in Notifier Badges, and text but only on
+Notifier and Modifier Badges.
 
 There are three types:
 
