@@ -10,6 +10,8 @@ A Bottom Bar is used to store all the action buttons that the View needs and opt
 
 The title can be an album's name, a folder's name, etc. while the description is strictly used to showcase how many items is in the View or an important status message.
 
+A Bottom Bar also has by default a background that takes in the accent c olor of your app in a very light form, so your branding has one more place to shine through.
+
 ## Geometry
 
 ![](/assets/bottom-bar-geo.png)
