@@ -19,3 +19,15 @@ Dialogs interrupt users with urgent information, details, or actions. Common usa
 - A dialog stays in focus and does not scroll until the user has dismissed or gone through with its associated confirmation.
 
 - A dialog should not contain, or make happen, scrollable contents.
+
+Remember these extra guidances as well for messaging in dialogs:
+
+**Say what happened** — Make it clear what did/didn’t happen. Explain why the user got this error, even if the only explanation is technical.
+
+**Provide reassurance** — Where possible, let them know what was not affected by the error.
+
+**Be empathetic** — Still use “please” if the situation warrants it. Maybe it’s a really dire situation, so empathize.
+
+**Help them fix it** — Tell them exactly what to do if there’s a way to possibly fix it.
+
+**Always give a way out** — If they can’t fix the problem, provide them with a way to contact.
