@@ -31,3 +31,7 @@ Secondary Windows are used for complementary content to the Primary Window, such
 * Avoid stacking Secondary Windows.
 
 * Avoid complex content on a Secondary Window, and don't make it bigger than the Primary Window.
+
+## Window Sizing
+
+Primary Windows should be able to get to the extreme size of 360×266px for purposes of compatibility with mobile Linux users.
