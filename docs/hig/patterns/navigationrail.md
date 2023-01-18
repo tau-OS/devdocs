@@ -31,6 +31,6 @@ sidebar_position: 18
 
 ## Shouldn’t be used for
 
-- Small screen sizes
+- Small screen sizes in vertical mode.
 - Single tasks, such as viewing a single email
 - Secondary navigation destinations 
