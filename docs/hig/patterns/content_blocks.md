@@ -6,7 +6,7 @@ sidebar_position: 7
 
 ![Content Block](/assets/content_blocks.png)
 
-Content blocks show information by grouping content by category so it's easier to scan. They are colored #FAFAFA in light, and #22262B in dark. There are three types:
+Content blocks show information by grouping content by category so it's easier to scan. They are colored #FAFAFA in light, and #3d3d3d in dark. There are three types:
 
 1. Text + Controller: Title, subtitle, and two action buttons.
 2. Image Cluster + Text: Multiple items provided in a line.
