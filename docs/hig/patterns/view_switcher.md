@@ -20,18 +20,12 @@ It is positioned at the top of Windows for convenient access. Each destination i
 
 When a View Switcher destination is selected, the user is taken to the navigation destination associated with that text label.
 
-It should be used for:
+Should be used for:
 
 - Top-level destinations that need to be accessible from anywhere in the app.
 - Two to five destinations.
 
-It shouldn't be used for:
+Shouldn't be used for:
 
 - Single tasks, such as viewing a single email; in this case use a View Title.
 - Displaying a Settings view. Those should be on a Secondary Window.
-
-## Mini View Switcher
-
-![](/assets/mini_view_switcher.png)
-
-When space is at a premium, one should move the View Switcher to the App Bar in the center.
