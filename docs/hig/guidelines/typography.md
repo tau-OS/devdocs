@@ -29,7 +29,8 @@ These are the recommended font styles for use in tauOS apps.
 
 |Name|Specs|CSS Class|Usage|
 |---|---|---|:---|
-|Display|Light 40px|`.display`|Used for very large text, such as timers or text that needs to be big.|
+|Big Display|Regular 57px|`.big-display`|Used for very large text, such as timers or text that needs to be big.|
+|Display|Light 40px|`.display`|Relatively large text on the screen, display is reserved for short, important text.|
 |View Title|Light 24px|`.view-title`|Used for view titles, it's big enough to title an app's view.|
 |View Subtitle|Regular 20px|`.view-subtitle`|Used for subtitles within a View.|
 |Content Block Title|**Bold 18px**|`.cb-title`|Used for the titles on Content Blocks.|
