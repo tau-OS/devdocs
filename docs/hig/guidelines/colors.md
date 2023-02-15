@@ -16,7 +16,7 @@ tauOS offers a range of standard colors that automatically adapt to light and da
 | ![](/assets/color_22.png)<br />#F7812B<br />247 129 43 | ![](/assets/color_21.png)<br />#FBBB8D<br />251 187 141 | Lepton Orange   | `.lepton-orange`<br />`.warning*`                      |
 | ![](/assets/color_20.png)<br />#FEBC16<br />254 188 22 | ![](/assets/color_19.png)<br />#FED97C<br />254 217 124 | Electron Yellow | `.electron-yellow`                                     |
 | ![](/assets/color_18.png)<br />#49D05E<br />73 208 94  | ![](/assets/color_17.png)<br />#9AE5A6<br />154 229 166 | Muon Green      | `.muon-green`<br />`.success*`                         |
-| ![](/assets/color_16.png)<br />#268EF9<br />38 142 249 | ![](/assets/color_15.png)<br />#8AC2FB<br />138 194 251 | Proton Blue     | `.proton-blue`<br />`.suggested-action*`               |
+| ![](/assets/color_16.png)<br />#45BAFC<br />38 142 249 | ![](/assets/color_15.png)<br />#A1DDFF<br />138 194 251 | Proton Blue     | `.proton-blue`<br />`.suggested-action*`               |
 | ![](/assets/color_14.png)<br />#4426FA<br />68 38 250  | ![](/assets/color_13.png)<br />#8572FF<br />133 114 255 | Photon Indigo   | `.photon-indigo`                                       |
 | ![](/assets/color_12.png)<br />#8C56BF<br />140 86 191 | ![](/assets/color_11.png)<br />#BEA0DB<br />190 160 219 | Tau Purple      | `.tau-purple`                                          |
 | ![](/assets/color_10.png)<br />#BF56A8<br />191 86 168 | ![](/assets/color_9.png)<br />#DB9FCD<br />219 159 205  | Fermion Pink    | `.fermion-pink`                                        |
