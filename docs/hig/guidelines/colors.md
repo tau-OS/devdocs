@@ -8,6 +8,8 @@ tauOS offers a range of standard colors that automatically adapt to light and da
 
 **Don’t** hard code color values in your app. The color values provided below are intended for reference during your app design process. Always use the Helium CSS Classes to apply colors within your app.
 
+If these colors pass through Ensor, our Accent Color API, they'll arrive at controlled hues that are also as good as these.
+
 ## Table of Colors
 
 | Helium Light                                           | Helium Dark                                             | Name            | CSS Class                                              |
